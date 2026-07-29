@@ -3,3 +3,8 @@ CatBoost/catboost_info/catboost_training.json
 CatBoost/catboost_info/learn_error.tsv
 CatBoost/catboost_info/time_left.tsv
 CatBoost/catboost_info/learn/events.out.tfevents
+Models/CatBoost/catboost_info/catboost_training.json
+Models/CatBoost/catboost_info/learn_error.tsv
+Models/CatBoost/catboost_info/time_left.tsv
+Models/CatBoost/catboost_info/learn/events.out.tfevents
+Models/XGBoost/mes_features.txt
